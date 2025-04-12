@@ -45,7 +45,7 @@
 ### 📊 **GitHub Analytics**
 <div align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_border=true)](https://github.com/yourusername)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent&hide_border=true)](https://github.com/yourusername)
+[![Stats](https://github-readme-stats.vercel.app/api?username=OleksandrPom&show_icons=true&theme=transparent&hide_border=true)](https://github.com/OleksandrPom)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrPom&layout=compact&theme=transparent&hide_border=true)](https://github.com/OleksandrPom)
 
 </div>
