@@ -1,5 +1,10 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&weight=600&duration=3000&pause=1000&color=2B75CD&center=true&width=500&lines=✨+Hey+there!+I'm+Oleksandr+✨" alt="Animated Header">
+
+  ### 👨💻 Junior Frontend Developer 
+  #### _Focusing on modern web development_
+  
+  [![Frontend Roadmap](https://img.shields.io/badge/Follow%20My%20Journey-2D2D2D?style=flat-square&logo=github)](https://github.com/yourusername)
 </div>
 
 ---
