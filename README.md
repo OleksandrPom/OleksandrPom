@@ -4,7 +4,7 @@
   ### 👨💻 Junior Frontend Developer 
   #### _Focusing on modern web development_
   
-  [![Frontend Roadmap](https://img.shields.io/badge/Follow%20My%20Journey-2D2D2D?style=flat-square&logo=github)](https://github.com/yourusername)
+  [![Frontend Roadmap](https://img.shields.io/badge/Follow%20My%20Journey-2D2D2D?style=flat-square&logo=github)](https://github.com/OleksandrPom)
 </div>
 
 ---
